@@ -1,7 +1,7 @@
 import React from "react"
 import Style from "../style/Covid19.module.scss"
 
-export const Covid19=()=>{
+export const Covid19 = () => {
     return (
         <div className={Style.body}>
             <h1 className={Style.h1}>Covid-19</h1>

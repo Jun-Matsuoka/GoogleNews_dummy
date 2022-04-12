@@ -125,8 +125,8 @@ export default function PersistentDrawerLeft() {
 
                     <Typography variant="h6" noWrap>
                         <Link to="/">
-                            <div style={{":&hover":{color:"blue"}}}>
-                            <img className={HeaderStyle.logo} src={Googlelogo} alt="Google News" />
+                            <div style={{ ":&hover": { color: "blue" } }}>
+                                <img className={HeaderStyle.logo} src={Googlelogo} alt="Google News" />
                             </div>
                         </Link>
                     </Typography>

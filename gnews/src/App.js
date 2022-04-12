@@ -6,12 +6,8 @@ import PersistentDrawerLeft from './compornents/Header2';
 import { TopPage } from './compornents/TopPage';
 
 function App() {
-  // const history = useHistory();
+
   return (
-    // <Header>
-    //   <DataGridTest />
-    //   <TopPage/>
-    //   <Covid19/>
     <>
       <BrowserRouter>
         <PersistentDrawerLeft />
